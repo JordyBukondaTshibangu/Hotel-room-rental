@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Banner from '../components/Banner'
 import Hero from '../components/Hero'
 
-const rooms = () => {
+const Rooms = () => {
     return (
         <div>
             <Hero hero='roomsHero'>
@@ -17,4 +17,4 @@ const rooms = () => {
     )
 }
 
-export default rooms
+export default Rooms
